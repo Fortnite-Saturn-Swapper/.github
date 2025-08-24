@@ -1,8 +1,8 @@
 # Fortnite Saturn Swapper - Working Fortnite Skin Swapper [Updated Version]
 
-[![Sandbox](https://img.shields.io/badge/Feature-Sandbox-blue)](#-key-features)
-[![Rules](https://img.shields.io/badge/Feature-Rules%20%26%20Templates-green)](#-key-features)
-[![Recovery](https://img.shields.io/badge/Feature-Quick%20Recovery-orange)](#-key-features)  
+[![Sandbox](https://img.shields.io/badge/Feature-Sandbox-blue)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#what-is-saturn-swapper)
+[![Rules](https://img.shields.io/badge/Feature-Rules%20%26%20Templates-green)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-why-choose-saturn-swapper)
+[![Recovery](https://img.shields.io/badge/Feature-Quick%20Recovery-orange)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-changelog)  
 [![Windows](https://img.shields.io/badge/Windows-10%2B-blue)](#-system-requirements)
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)](#-changelog)
 
