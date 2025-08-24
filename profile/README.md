@@ -112,6 +112,14 @@ Our dedicated development team maintains constant vigilance, adding new cosmetic
 - Added Turkish language support
 
 ---
+[![About](https://img.shields.io/badge/About-Saturn%20Swapper-blue)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#what-is-saturn-swapper)
+[![Features](https://img.shields.io/badge/Key-Features-green)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-key-features)
+[![Requirements](https://img.shields.io/badge/System-Requirements-orange)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-system-requirements)
+[![Why Choose](https://img.shields.io/badge/Why-Choose%20Us-purple)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-why-choose-saturn-swapper)
+[![Changelog](https://img.shields.io/badge/View-Changelog-yellow)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-changelog)
+[![SEO](https://img.shields.io/badge/SEO-Keywords-lightgrey)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-seo-keywords)  
+[![Installation](https://img.shields.io/badge/Windows-10%2B-blue)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#-installation-guide)
+[![Safety](https://img.shields.io/badge/Safety-Features-brightgreen)](https://github.com/Fortnite-Saturn-Swapper/.github/blob/main/profile/README.md#%EF%B8%8F-safety-features)
 
 ![Saturn Swapper Interface 2](https://egamersworld.com/cdn-cgi/image/width=690,quality=75,format=webp/uploads/blog/1685521972778.webp)
 
